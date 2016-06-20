@@ -1,12 +1,12 @@
 [![Build Status](https://travis-ci.org/atogov/RAM.svg?branch=develop)](https://travis-ci.org/atogov/RAM)
-<test bc_test edited here>
+
 # Architecture
 
-![System Architecture](https://raw.githubusercontent.com/atogov/RAM/develop/docs/images/system-architecture.png)
+
 
 # High level system functionality - User UI Flow
 
-![High Level Functionality ](https://raw.githubusercontent.com/atogov/RAM/develop/docs/images/ui-flow.png)
+
 
 # Data Model (*In TypeScript format* [here](https://raw.githubusercontent.com/atogov/RAM/develop/docs/data-types.ts))
 ![Data Model](https://raw.githubusercontent.com/atogov/RAM/develop/docs/images/data-model.png)
