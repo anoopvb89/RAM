@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/atogov/RAM.svg?branch=develop)](https://travis-ci.org/atogov/RAM)
-
+<test bc_test edited here>
 # Architecture
 
 ![System Architecture](https://raw.githubusercontent.com/atogov/RAM/develop/docs/images/system-architecture.png)
